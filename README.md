@@ -44,6 +44,8 @@ If there's a particular aspect of the newsletter or specific content you want to
 [Document Statistics](https://github.com/sourceduty/Document_Statistics)
 <br>
 [Document Update](https://chat.openai.com/g/g-Gk3wDoqRU-document-update)
+<br>
+[Data Generator](https://github.com/sourceduty/Data_Generator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
