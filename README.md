@@ -38,5 +38,12 @@ Recommendations for Improvement:
 
 If there's a particular aspect of the newsletter or specific content you want to delve deeper into or verify, please let me know!
 
+#
+### Related Links
+
+[Document Statistics](https://github.com/sourceduty/Document_Statistics)
+<br>
+[Document Update](https://chat.openai.com/g/g-Gk3wDoqRU-document-update)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
