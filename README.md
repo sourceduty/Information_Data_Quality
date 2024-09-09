@@ -9,9 +9,13 @@ The assistance provided by Information & Data Quality is multifaceted. It helps 
 
 Comprehensive evaluations of information and data using a detailed set of attributes. It assesses factors such as accuracy, relevance, timeliness, completeness, and consistency, ensuring that information is precise, reliable, and current. Additionally, it evaluates usability, objectivity, and clarity to guarantee that data is accessible and understandable for its intended audience. The GPT also considers more technical attributes, including data granularity, metadata quality, and interpretive flexibility, along with ethical considerations like transparency, source credibility, and sensitivity. This thorough assessment framework ensures that content meets high standards of quality, integrity, and relevance for professionals, educators, and researchers.
 
+................................................................................
+
 ##### Information Attributes for Sorting:
 
 Accuracy, Relevance, Timeliness, Completeness, Consistency, Clarity, Objectivity, Validity, Reliability, Usability, Accessibility, Understandability, Precision, Specificity, Coherence, Credibility, Detail, Currentness, Authenticity, Integrity, Reputability, Value, Transparency, Interpretability, Context, Sufficiency, Legibility, Currency, Relevance to the audience, Security, Accuracy of source, Ease of retrieval, Relevance to purpose, Format, Redundancy, Source quality, Coverage, Complexity, Conciseness, Depth, Scope, Bias, Diversity, Consistency of format, Regularity, Timeliness of updates, Interoperability, Data provenance, Granularity, Relevance of source, Anonymity, Trustworthiness, Precision of measurement, Contextual relevance, Adaptability, Usability for end-user, Scalability, Data richness, Interpretive flexibility, Integration ease, Metadata quality, Communication clarity, Transparency of process, Data validation, Error rate, Sensitivity, Compliance, Ethical considerations, Reliability of source, Documentation quality, Feedback mechanisms, Data integration, Functional relevance, Redundancy reduction, Source diversification, Temporal relevance, Corroboration, Insightfulness, Adaptability to change, Interconnectivity, Representation accuracy, Data accuracy, Source verification, Comprehensiveness, Correctness, Data structure, Interdisciplinary relevance, Semantic clarity, Data granularity, Predictive value, Authenticity of source, Analytical value, Data normalization, Cross-referencing, Visual clarity
+
+................................................................................
 
 ##### Data Attributes for Sorting:
 
