@@ -24,6 +24,8 @@ Accuracy, Completeness, Consistency, Timeliness, Relevance, Precision, Validity,
 #
 ### Related Links
 
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
 [Document Statistics](https://github.com/sourceduty/Document_Statistics)
 <br>
 [Document Update](https://chat.openai.com/g/g-Gk3wDoqRU-document-update)
