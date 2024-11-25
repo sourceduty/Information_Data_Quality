@@ -1,4 +1,7 @@
-![Information   Data Quality](https://github.com/sourceduty/Information_Data_Quality/assets/123030236/ed92739e-0b71-4ca3-88ba-b8d314d696b2)
+![Info](https://github.com/user-attachments/assets/e9c71468-625e-4c5c-9e12-900bb3fce7d6)
+
+> Assess information and data quality in various formats.
+#
 
 [Information & Data Quality](https://chat.openai.com/g/g-LdgV8RLVs-information-data-quality) serves as a specialized tool developed to evaluate and enhance the quality of information across various formats, including text and data. Its primary role is to assess content through a detailed, interactive, multiple-choice question process. By probing key aspects such as accuracy, relevance, and timeliness, it ensures that the information meets high standards of reliability and validity. This process is vital for educators, researchers, and professionals who depend on the precision and applicability of their data and textual content.
 
@@ -20,6 +23,9 @@ Accuracy, Relevance, Timeliness, Completeness, Consistency, Clarity, Objectivity
 ##### Data Attributes for Sorting:
 
 Accuracy, Completeness, Consistency, Timeliness, Relevance, Precision, Validity, Reliability, Usability, Accessibility, Integrity, Clarity, Detail, Currentness, Authenticity, Reputability, Transparency, Context, Sufficiency, Granularity, Currency, Security, Format, Coverage, Scope, Bias, Diversity, Redundancy, Complexity, Conciseness, Depth, Coherence, Value, Interpretability, Contextual relevance, Adaptability, Data richness, Documentation quality, Metadata quality, Communication clarity, Feedback mechanisms, Compliance, Ethical considerations, Sensitivity, Error rate, Data integration, Functional relevance, Integration ease, Source diversification, Temporal relevance, Corroboration, Insightfulness, Interconnectivity, Representation accuracy, Data accuracy, Data structure, Predictive value, Semantic clarity, Analytical value, Cross-referencing, Interdisciplinary relevance, Visual clarity, Relevance to purpose, Ease of retrieval, Relevance to the audience, Trustworthiness, Adaptability to change, Source verification, Anonymity, Data normalization, Source quality, Redundancy reduction, Reliability of source, Metadata accuracy, Usability for end-user, Source credibility, Document integrity, Predictive accuracy, Interpretive flexibility, Data validity, Completeness of metadata, Standardization, Transparency of process
+
+#
+![Information   Data Quality](https://github.com/sourceduty/Information_Data_Quality/assets/123030236/ed92739e-0b71-4ca3-88ba-b8d314d696b2)
 
 #
 ### Related Links
